@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Ahttps://github.com/PreshCassey/Single-Price-Grid-Component.git](https://github.com/PreshCassey/Single-Price-Grid-Component.git)
+- Solution URL: [https://github.com/PreshCassey/Single-Price-Grid-Component.git](https://github.com/PreshCassey/Single-Price-Grid-Component.git)
 - Live Site URL: [https://preshcassey.github.io/Single-Price-Grid-Component/](https://preshcassey.github.io/Single-Price-Grid-Component/)
 
 ## My process
