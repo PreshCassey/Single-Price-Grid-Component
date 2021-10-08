@@ -10,7 +10,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -37,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PreshCassey/Single-Price-Grid-Component.git)
-- Live Site URL: [Add live site URL here](https://codepen.io/cassey/full/YzxKegP)
+- Solution URL: [Ahttps://github.com/PreshCassey/Single-Price-Grid-Component.git](https://github.com/PreshCassey/Single-Price-Grid-Component.git)
+- Live Site URL: [https://preshcassey.github.io/Single-Price-Grid-Component/](https://preshcassey.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
